@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @roshanravidas
+- 👀 I’m interested in programing and coding ...
+- 🌱 I’m currently learning at guru nanak dev engineering collage in ludhiana...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: 
+- ⚡ Fun fact: if you visit my profile then after 2 days you receive a good news.
+
+
+<!---
+roshanravidas/roshanravidas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
